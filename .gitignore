@@ -1,0 +1,11 @@
+.vscode
+.DS_Store
+node_modules
+dev
+dist
+radata
+.env
+.env.docker
+
+# Local Netlify folder
+.netlify

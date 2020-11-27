@@ -12,12 +12,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.5.1"
+    "discord.js": "^11.6.4"
   },
   "devDependencies": {
-    "@types/node": "^13.7.0",
+    "@types/node": "^13.13.33",
     "dotenv": "^8.2.0",
-    "nodemon": "^2.0.2",
-    "typescript": "^3.7.5"
+    "nodemon": "^2.0.6",
+    "typescript": "^3.9.7"
   }
 }
